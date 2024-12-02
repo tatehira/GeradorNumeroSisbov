@@ -1,0 +1,14 @@
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\bin\Debug\net8.0\SISBOV.exe
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\bin\Debug\net8.0\SISBOV.deps.json
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\bin\Debug\net8.0\SISBOV.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\bin\Debug\net8.0\SISBOV.dll
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\bin\Debug\net8.0\SISBOV.pdb
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.dll
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\refint\SISBOV.dll
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.pdb
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\SISBOV.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\LBR.IT\Chamados\02-Em Produção\320 - PECUARIA SISBOV\SISBOV\SISBOV\obj\Debug\net8.0\ref\SISBOV.dll
