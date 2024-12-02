@@ -1,4 +1,4 @@
-<br>Gerador SISBOV<br>
+Gerador SISBOV<br>
 
 <br>O Gerador SISBOV é uma ferramenta desenvolvida para gerar números SISBOV de forma automatizada, a partir de um intervalo de números fornecido, organizando-os em caixas com a quantidade configurada de brincos por caixa.
 
